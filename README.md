@@ -1,4 +1,4 @@
-# Hi there, I'm Subhadeep Malik 👋
+# Hi there, I'm Subhadeep Malik 👋 😌
    <!-- Fun Fact: I'm Introvert 🙂 -->
 
 ### Technologies I Use:
@@ -21,7 +21,7 @@
 
 <br>
 <p align='center'>
-   🙂
+   😌
 </p>
 
 
