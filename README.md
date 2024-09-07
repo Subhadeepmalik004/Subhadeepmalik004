@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Subhadeep Malik 👋
+   <!-- Fun Fact: I'm Introvert 🙂 -->
 
-<!--
-**Subhadeepmalik004/Subhadeepmalik004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies I Use:
+- Languages:
+  - C && C++;
+  - JavaScript;
+  - </ HTML > and .CSS{ }
+- Frameworks && Libraries:
+  - Express.js
+  - React.js
+- Databases:
+  - MongoDB
+  - MySQL
+- Misc.:
+  - Node.js
+  - Git & GitHub
+- Currently Learning:
+  - JAVA
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align='center'>
+   🙂
+</p>
+
+
+   <!-- 🌱 I’m currently learning: -->
+   <!-- 💬 Ask me about: -->
+   <!-- 📫 How to reach me: -->
+   <!-- 🔭 I’m currently working on ... -->
+   <!-- 🤔 I’m looking for help with ... -->
+   <!-- 👯 I’m looking to collaborate on ... -->
+   <!-- 😄 Pronouns: ... -->
+   <!-- ⚡ Fun fact: ... -->
