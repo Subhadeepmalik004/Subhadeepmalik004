@@ -8,10 +8,10 @@ Hello there ! I am Subhadeep Malik , a Backend developer
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
-<p align="center">
+<p align="center" style={}>
   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Subhadeepmalik004&theme=neon&hide_border=false&include_all_commits=false&count_private=false" ><br/>
-  <img width="800px" src="https://nirzak-streak-stats.vercel.app/?user=Subhadeepmalik004&theme=neon&hide_border=false" ><br/>
-  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeepmalik004&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" >
+  <img width="600px" src="https://nirzak-streak-stats.vercel.app/?user=Subhadeepmalik004&theme=neon&hide_border=false" ><br/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeepmalik004&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" >
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Subhadeepmalik004&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Subhadeepmalik004&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeepmalik004&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
